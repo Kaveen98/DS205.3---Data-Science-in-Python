@@ -65,12 +65,12 @@ pip install pandas numpy matplotlib seaborn requests beautifulsoup4 openpyxl
 3. **Run the Program**
    Execute the program using:
    ```bash
-   python <filename>.py
+   python 27986_OVDKR Weerasena_Coursework_DS205.3.py
    ```
 
 ---
 
-📝 Usage Guide
+## 📝 Usage Guide
 - Load the purchase data and perform exploratory analysis.
 - Visualize customer and product metrics using plots.
 - Scrape Amazon product listings to collect item metadata.
@@ -78,12 +78,18 @@ pip install pandas numpy matplotlib seaborn requests beautifulsoup4 openpyxl
 - Analyze the enriched dataset for business insights.
 - Export filtered or summarized results to Excel for sharing or reporting.
 
-⚠️ Notes
+---
+
+## ⚠️ Notes
 - Scraping may take up to 4 minutes depending on page speed and connection.
 - Headers are used to mimic browser behavior (ethical scraping).
 - Always follow Amazon's terms of use while scraping.
 
-🎓 Author & Acknowledgment
+---
+
+## 🎓 Author & Acknowledgment
 - Developed by OVDKR Weerasena
 - Student ID: 27986
 - This program is developed for coursework in Data Science, emphasizing practical applications of Python in data analysis and web scraping.
+
+---
